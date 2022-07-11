@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@elrondnetwork/erdjs": "^10.2.7",
+    "@elrondnetwork/erdjs-walletcore": "^1.0.0",
+    "bip39": "^3.0.4",
+    "fs": "^0.0.1-security"
+  }
+}
