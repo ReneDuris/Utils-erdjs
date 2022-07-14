@@ -1,5 +1,5 @@
 const fs = require("fs");
-const {Mnemonic,} = require("@elrondnetwork/erdjs-walletcore")
+const {Mnemonic} = require("@elrondnetwork/erdjs-walletcore")
 const bip39_1 = require("bip39");
 const MNEMONIC_STRENGTH = 256;
 
